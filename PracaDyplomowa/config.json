@@ -1,12 +1,12 @@
 {
   "eye_frame_count": {
-    "min_right_eye": 30,
-    "min_left_eye": 30,
+    "min_right_eye": 15,
+    "min_left_eye": 15,
     "min_dabble_click_eye": 10
   },
   "cursor_movement": {
     "config_moving_up": 0.6,
-    "config_moving_down": 0.6,
+    "config_moving_down": 0.8,
     "config_moving_left": 0.6,
     "config_moving_right": 0.6
   },
